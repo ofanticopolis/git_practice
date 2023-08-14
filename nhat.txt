@@ -1,3 +1,7 @@
 test
 
+<<<<<<< HEAD
 conflict local
+=======
+conflict remote
+>>>>>>> origin/git_practice-001/git-commmit
